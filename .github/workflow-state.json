@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "repo": "krdn/my-app",
+  "files": {
+    ".github/ISSUE_TEMPLATE/task.yml": "f498ab7fd40361979c6a7bcfd9d03564dfa57761451a50f9254d7717b293516d",
+    ".github/project-management.md": "7c199964057da5377d780b7d00cacef9b70ff1450057cc3ee2e20b94c3efe24d",
+    ".github/pull_request_template.md": "974e44a3e096bb0086da9339b45f36fc0b2ede95100e3bcf1da3b8aab92ed461",
+    ".github/workflows/workflow-config.yml": "11f1a58ef54314cf976cbd289ee53cdf08c2dc9cf272be8eeb744ddd9750aba2",
+    "AGENTS.md": "21fa6112289a3775e432e322ea59e495f1becac4670dc25f91973baafa7f0595",
+    "CLAUDE.md": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+    "docs/WORKFLOW.md": "4bf5511cd489bc03f6d2b8499aff36600ed321c94d98705f00bc866877adf205"
+  },
+  "seed_files": [
+    ".github/dependabot.yml",
+    ".gitignore",
+    "README.md",
+    "docs/STATE.md",
+    "docs/start-context.json"
+  ]
+}
